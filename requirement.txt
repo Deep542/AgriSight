@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+PIL
+Image
+pygments.styles.dracula
