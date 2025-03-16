@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+streamlit_option_menu
 numpy
-pandas
 pygments.styles.dracula
+
